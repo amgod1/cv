@@ -14,7 +14,7 @@ const LinkItem = (props) => {
             <h4 className='footer__title color-grey'>
                 {props.title}
             </h4>
-            <a href={props.href} className='footer__link'>
+            <a href={props.href} className='footer__link' target="_blank" rel="noopener noreferrer">
                 {props.name}
                 <img src={Arrow} alt='arrow-link' className='arrow-link' />
             </a>

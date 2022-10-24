@@ -7,12 +7,12 @@ const Header = () => {
             <img src={MyImage} className='header__img' alt='me' />
             <div className='header__info'>
                 <h1 className='header__info-title'>
-                    Schepuk Kamill
+                    Kamill Schepuk
                 </h1>
                 <p className='header__info-subtitle color-grey'>
                     Frontend (React) Web Developer
                 </p>
-                <a href='https://www.linkedin.com/in/amgod/' className='link'>
+                <a href='https://www.linkedin.com/in/amgod/' className='link' target="_blank" rel="noopener noreferrer">
                     <p className='header__info-website color-grey'>
                         LinkedIn Profile
                     </p>

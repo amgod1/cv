@@ -113,6 +113,7 @@ body {
   margin: 0;
   padding: 0;
   outline: none;
+  border: none;
   transition: all .25s;
 }
 

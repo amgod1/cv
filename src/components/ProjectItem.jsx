@@ -18,11 +18,11 @@ const ProjectItem = (props) => {
 
     return (
         <div className='projects-items'>
-            <a href={props.href}>
+            <a href={props.href} target="_blank" rel="noopener noreferrer">
                 <img src={imageSource} className='projects__logo' alt={imageSource} />
             </a>
             <div className='projects__info'>
-                <a href={props.href}>
+                <a href={props.href} target="_blank" rel="noopener noreferrer">
                     <h4 className='projects__info-title'>
                         {props.title}
                         <img src={Arrow} alt='arrow-link' className='arrow-link' />
