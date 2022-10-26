@@ -1,6 +1,6 @@
 import { React, useState } from 'react'
 import ProjectItem from './ProjectItem'
-import projects from '../projects.json'
+import projects from '../data/projects.json'
 
 const Projects = () => {
 
@@ -26,7 +26,7 @@ const Projects = () => {
 
     let allProjects = projects.projects
         .filter(el => {
-            return (el.lang.includes(' ') && filterAlt === 'JavaScript')
+            return (el.lang.includes(' ') && (filterAlt === 'JavaScript' || filterAlt === 'TypeScript'))
                 ? el.lang.slice(0, el.lang.indexOf(' ')).includes(filterAlt) 
                 : el.lang.includes(filterAlt)
         })

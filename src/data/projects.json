@@ -19,6 +19,12 @@
             "info": "The Louvre is one of the largest and most popular art museums in the world. Explore the former palace of the kings of France – now the largest museum in the world covering almost 10,000 years of history!"
         },
         {
+            "title": "Midi Store", 
+            "href": "https://amgod1.github.io/midi-store-react/", 
+            "lang": "React TypeScript", 
+            "info": "AKAI Professional entered the electronic music industry in 1984 with one purpose - to give artists the tools they need to express and explore new musical possibilities. You can select the products you want, which will appear in the shopping cart."
+        },
+        {
             "title": "To Do App", 
             "href": "https://amgod1.github.io/to-do-react/", 
             "lang": "React JavaScript", 

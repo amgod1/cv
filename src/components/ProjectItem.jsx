@@ -5,7 +5,6 @@ import react from '../assets/react.png'
 import web from '../assets/web.png'
 import Arrow from '../assets/arrow-link.svg'
 
-
 const ProjectItem = (props) => {
 
     let imageSource = (props.lang.includes('HTML/CSS')) 
