@@ -1,82 +1,100 @@
 {
-    "projects": [
-        {
-            "title": "Shelter", 
-            "href": "https://rolling-scopes-school.github.io/amgod1-JSFE2022Q1/shelter/pages/main/index.html", 
-            "lang": "HTML/CSS JavaScript", 
-            "info": "Adaptive two-page website for an animal kennel. It features a slider, burger menu, pagination and pop-ups. "
-        },
-        {
-            "title": "Momentum", 
-            "href": "https://amgod1.github.io/momentum/", 
-            "lang": "HTML/CSS JavaScript", 
-            "info": "Momentum is an analogue of the Chrome Web Store app of the same name. The app shows the time and the user's name. The background image and welcome message change depending on the time of day."
-        },
-        {
-            "title": "Museum", 
-            "href": "https://amgod1.github.io/museum/", 
-            "lang": "React JavaScript", 
-            "info": "The Louvre is one of the largest and most popular art museums in the world. Explore the former palace of the kings of France – now the largest museum in the world covering almost 10,000 years of history!"
-        },
-        {
-            "title": "Midi Store", 
-            "href": "https://amgod1.github.io/midi-store-react/", 
-            "lang": "React TypeScript", 
-            "info": "AKAI Professional entered the electronic music industry in 1984 with one purpose - to give artists the tools they need to express and explore new musical possibilities. You can select the products you want, which will appear in the shopping cart."
-        },
-        {
-            "title": "To Do App", 
-            "href": "https://amgod1.github.io/to-do-react/", 
-            "lang": "React JavaScript", 
-            "info": "Application for writing notes or to-do lists. You can add, edit, delete, and mark completed notes. Notes are always saved. Supports mobile devices."
-        },
-        {
-            "title": "Virtual Keyboard", 
-            "href": "https://amgod1.github.io/virtual-keyboard/", 
-            "lang": "JavaScript", 
-            "info": "The main task of the application is to show user which key is pressed. In addition, the keys can be pressed with the mouse cursor or, for touch screens, with the user's finger."
-        },
-        {
-            "title": "Color Dropper", 
-            "href": "https://amgod1.github.io/color-dropper/", 
-            "lang": "JavaScript", 
-            "info": "This application has five lines on which a random color is generated. The user can save the colors he likes and create the palette he wants. The colors are saved in a link."
-        },
-        {
-            "title": "To Do App", 
-            "href": "https://amgod1.github.io/to-do-app/", 
-            "lang": "JavaScript", 
-            "info": "Application for writing notes or to-do lists. You can add, edit, delete, and mark completed notes. Notes are always saved. Supports mobile devices."
-        },
-        {
-            "title": "My previous CV", 
-            "href": "https://amgod1.github.io/cv2022/", 
-            "lang": "HTML/CSS JavaScript", 
-            "info": "My old Curriculum Vitae (or just course of life). I used to think it was cool, but my views have changed over time. In any case, it is good as a project."
-        },
-        {
-            "title": "Midi Store", 
-            "href": "https://amgod1.github.io/midi-store/", 
-            "lang": "HTML/CSS", 
-            "info": "An example of an adaptive midi keyboard catalog for an online store using flexbox css."
-        },
-        {
-            "title": "Drum Pad Machine", 
-            "href": "https://amgod1.github.io/drum-pad-machine/", 
-            "lang": "JavaScript", 
-            "info": "This is a virtual copy of a drum machine. Use the keyboard to play sounds and samples. Write your own drum part and make a track."
-        },
-        {
-            "title": "IOS Calculator", 
-            "href": "https://amgod1.github.io/ios-calc/", 
-            "lang": "TypeScript", 
-            "info": "A copy of the IOS calculator. It implements all the standard features and in addition provides such features as dividing by zero and finding percentages. The maximum number length that can be seen on the screen is 10 characters (including floating point numbers)."
-        },
-        {
-            "title": "Tic Tac Toe", 
-            "href": "https://amgod1.github.io/tic-tac-toe/", 
-            "lang": "React JavaScript", 
-            "info": "A classic game between two opponents on a 3 by 3 square field. Supported by mobile devices."
-        }
-    ]
+	"projects": [
+		{
+			"title": "Shelter",
+			"href": "https://rolling-scopes-school.github.io/amgod1-JSFE2022Q1/shelter/pages/main/index.html",
+			"lang": "HTML/CSS JavaScript",
+			"info": "Adaptive two-page website for an animal kennel. It features a slider, burger menu, pagination and pop-ups. "
+		},
+		{
+			"title": "Momentum",
+			"href": "https://amgod1.github.io/momentum/",
+			"lang": "HTML/CSS JavaScript",
+			"info": "Momentum is an analogue of the Chrome Web Store app of the same name. The app shows the time and the user's name. The background image and welcome message change depending on the time of day."
+		},
+		{
+			"title": "Clever to do List",
+			"href": "https://amgod1.github.io/Innowise-Lab-Internship-Clever-to-do-List/",
+			"lang": "React Firebase JavaScript ",
+			"info": "The app is designed to organise your to-do list. Real-time data exchange with firebase, a user-friendly interface and the ability to create a note for each day make the app interesting and fun to use."
+		},
+		{
+			"title": "Mini Paint",
+			"href": "https://amgod1.github.io/Innowise-Lab-Internship-Mini-paint/#/login",
+			"lang": "React Redux TypeScript",
+			"info": "A copy of the world-famous browser-based paint application, it also has the ability to draw on an image, send the resulting image to the database, and then render the result on the home page for all authorised users to see."
+		},
+		{
+			"title": "Museum",
+			"href": "https://amgod1.github.io/museum/",
+			"lang": "React JavaScript",
+			"info": "The Louvre is one of the largest and most popular art museums in the world. Explore the former palace of the kings of France – now the largest museum in the world covering almost 10,000 years of history!"
+		},
+		{
+			"title": "Midi Store",
+			"href": "https://amgod1.github.io/midi-store-react/",
+			"lang": "React TypeScript",
+			"info": "AKAI Professional entered the electronic music industry in 1984 with one purpose - to give artists the tools they need to express and explore new musical possibilities. You can select the products you want, which will appear in the shopping cart."
+		},
+		{
+			"title": "To Do App",
+			"href": "https://amgod1.github.io/to-do-react/",
+			"lang": "React JavaScript",
+			"info": "Application for writing notes or to-do lists. You can add, edit, delete, and mark completed notes. Notes are always saved. Supports mobile devices."
+		},
+		{
+			"title": "Custom Calculator",
+			"href": "https://amgod1.github.io/Innowise-Lab-Internship-Custom-Calculator/src/",
+			"lang": "JavaScript OOP",
+			"info": "The app is a clone of a calculator that has advanced functionality, the ability to perform complex calculations and return previous values thanks to a design pattern - the command."
+		},
+		{
+			"title": "Virtual Keyboard",
+			"href": "https://amgod1.github.io/virtual-keyboard/",
+			"lang": "JavaScript",
+			"info": "The main task of the application is to show user which key is pressed. In addition, the keys can be pressed with the mouse cursor or, for touch screens, with the user's finger."
+		},
+		{
+			"title": "Color Dropper",
+			"href": "https://amgod1.github.io/color-dropper/",
+			"lang": "JavaScript",
+			"info": "This application has five lines on which a random color is generated. The user can save the colors he likes and create the palette he wants. The colors are saved in a link."
+		},
+		{
+			"title": "To Do App",
+			"href": "https://amgod1.github.io/to-do-app/",
+			"lang": "JavaScript",
+			"info": "Application for writing notes or to-do lists. You can add, edit, delete, and mark completed notes. Notes are always saved. Supports mobile devices."
+		},
+		{
+			"title": "My previous CV",
+			"href": "https://amgod1.github.io/cv2022/",
+			"lang": "HTML/CSS JavaScript",
+			"info": "My old Curriculum Vitae (or just course of life). I used to think it was cool, but my views have changed over time. In any case, it is good as a project."
+		},
+		{
+			"title": "Midi Store",
+			"href": "https://amgod1.github.io/midi-store/",
+			"lang": "HTML/CSS",
+			"info": "An example of an adaptive midi keyboard catalog for an online store using flexbox css."
+		},
+		{
+			"title": "Drum Pad Machine",
+			"href": "https://amgod1.github.io/drum-pad-machine/",
+			"lang": "JavaScript",
+			"info": "This is a virtual copy of a drum machine. Use the keyboard to play sounds and samples. Write your own drum part and make a track."
+		},
+		{
+			"title": "IOS Calculator",
+			"href": "https://amgod1.github.io/ios-calc/",
+			"lang": "TypeScript",
+			"info": "A copy of the IOS calculator. It implements all the standard features and in addition provides such features as dividing by zero and finding percentages. The maximum number length that can be seen on the screen is 10 characters (including floating point numbers)."
+		},
+		{
+			"title": "Tic Tac Toe",
+			"href": "https://amgod1.github.io/tic-tac-toe/",
+			"lang": "React JavaScript",
+			"info": "A classic game between two opponents on a 3 by 3 square field. Supported by mobile devices."
+		}
+	]
 }
